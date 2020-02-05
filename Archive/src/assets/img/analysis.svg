@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>ICON/分析</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="全部业务备份-5" transform="translate(-1366.000000, -389.000000)">
+            <g id="编组-2" transform="translate(256.000000, 96.000000)">
+                <g id="table" transform="translate(0.000000, 216.000000)">
+                    <g id="tr" transform="translate(0.000000, 49.000000)">
+                        <g id="ICOM/导航栏-疑问解答" transform="translate(1110.000000, 28.000000)">
+                            <g id="ICON/分析">
+                                <g id="chart_pit" transform="translate(3.000000, 3.000000)">
+                                    <path d="M8.26633638,1.50003665 L8.26670539,9.73329461 L13.8756007,14.7208039 C12.5654116,15.830686 10.8701499,16.5 9.01856154,16.5 C4.86617466,16.5 1.5,13.1338253 1.5,8.98143846 C1.5,5.0829288 4.46714149,1.87743216 8.26633638,1.50003665 Z M16.4999634,9.73366362 C16.356336,11.1795423 15.8030941,12.5049086 14.9579266,13.5920732 L10.616,9.73303665 Z M9.7707867,1.50003665 C13.3225719,1.85285556 16.1471444,4.67742809 16.4999634,8.2292133 L9.77,8.22903665 Z" fill="#B6B6B6"></path>
+                                    <rect id="24x24" x="0" y="0" width="18" height="18"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
