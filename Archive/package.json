@@ -20,7 +20,7 @@
         "stylelint:fix": "stylelint ./src/**/*.wxss --fix"
     },
     "dependencies": {
-        "axios": "^0.18.1",
+        "axios": "^0.21.1",
         "echarts": "^4.3.0",
         "element-ui": "^2.11.1",
         "jointjs": "^3.0.1",
